@@ -34,6 +34,7 @@ var windowLocation = window.location.toString();
 /*
 TODO: 
 	- remove this external dependency
+	- ahh it's not a dependency
 */
 
 (function ($) {
