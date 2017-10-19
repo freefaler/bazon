@@ -29,7 +29,12 @@ var windowHostname = window.location.hostname;
 var windowLocation = window.location.toString();
 
 // Scrape Amazon
-// https://gist.github.com/destroytoday/6706265
+// https://gist.github.com/destroytoday/6706265 
+
+/*
+TODO: 
+	- remove this external dependency
+*/
 
 (function ($) {
 	// text with line breaks
